@@ -1,0 +1,15 @@
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\AVANADE.Somatorio.exe
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\AVANADE.Somatorio.deps.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\AVANADE.Somatorio.runtimeconfig.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\AVANADE.Somatorio.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\ref\AVANADE.Somatorio.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\bin\Debug\net6.0\AVANADE.Somatorio.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.csproj.AssemblyReference.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.AssemblyInfoInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.AssemblyInfo.cs
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.csproj.CoreCompileInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\ref\AVANADE.Somatorio.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Somatorio\obj\Debug\net6.0\AVANADE.Somatorio.genruntimeconfig.cache

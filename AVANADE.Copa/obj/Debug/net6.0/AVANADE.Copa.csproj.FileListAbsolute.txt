@@ -1,0 +1,15 @@
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\AVANADE.Copa.exe
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\AVANADE.Copa.deps.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\AVANADE.Copa.runtimeconfig.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\AVANADE.Copa.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\ref\AVANADE.Copa.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\bin\Debug\net6.0\AVANADE.Copa.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.csproj.AssemblyReference.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.AssemblyInfoInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.AssemblyInfo.cs
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.csproj.CoreCompileInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\ref\AVANADE.Copa.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Copa\obj\Debug\net6.0\AVANADE.Copa.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\AVANADE.Matriz.exe
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\AVANADE.Matriz.deps.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\AVANADE.Matriz.runtimeconfig.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\AVANADE.Matriz.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\ref\AVANADE.Matriz.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\bin\Debug\net6.0\AVANADE.Matriz.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.csproj.AssemblyReference.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.AssemblyInfoInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.AssemblyInfo.cs
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.csproj.CoreCompileInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\ref\AVANADE.Matriz.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.Matriz\obj\Debug\net6.0\AVANADE.Matriz.genruntimeconfig.cache

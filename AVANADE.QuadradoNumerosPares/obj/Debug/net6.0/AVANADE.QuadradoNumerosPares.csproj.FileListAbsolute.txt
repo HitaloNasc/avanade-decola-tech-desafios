@@ -1,0 +1,15 @@
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.csproj.AssemblyReference.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.AssemblyInfoInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.AssemblyInfo.cs
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\AVANADE.QuadradoNumerosPares.exe
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\AVANADE.QuadradoNumerosPares.deps.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\AVANADE.QuadradoNumerosPares.runtimeconfig.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\AVANADE.QuadradoNumerosPares.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\ref\AVANADE.QuadradoNumerosPares.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\bin\Debug\net6.0\AVANADE.QuadradoNumerosPares.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\ref\AVANADE.QuadradoNumerosPares.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.QuadradoNumerosPares\obj\Debug\net6.0\AVANADE.QuadradoNumerosPares.genruntimeconfig.cache

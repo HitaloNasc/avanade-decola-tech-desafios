@@ -1,0 +1,15 @@
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\AVANADE.ProximoNumeroPar.exe
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\AVANADE.ProximoNumeroPar.deps.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\AVANADE.ProximoNumeroPar.runtimeconfig.json
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\AVANADE.ProximoNumeroPar.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\ref\AVANADE.ProximoNumeroPar.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\bin\Debug\net6.0\AVANADE.ProximoNumeroPar.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.csproj.AssemblyReference.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.AssemblyInfoInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.AssemblyInfo.cs
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\ref\AVANADE.ProximoNumeroPar.dll
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.pdb
+C:\Users\hital\Documents\_BOOTCAMPS\AVANADE\AVANADE.ProximoNumeroPar\obj\Debug\net6.0\AVANADE.ProximoNumeroPar.genruntimeconfig.cache
